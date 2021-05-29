@@ -1,4 +1,4 @@
-console.log('****** Loops Practice *******');
+console.log('****** Loops Practice ******');
 
 
 // 1. 'for' loop
